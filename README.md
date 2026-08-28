@@ -1,5 +1,72 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Nyls 👋</h1>
 
+<p align="center">
+  Estudante de Ciência da Computação (UNIP) | Técnico em Desenvolvimento de Sistemas (Etec Prof. Horácio Augusto da Silveira)
+  <br>
+  Construindo projetos, aprendendo na prática e buscando minha primeira oportunidade em tecnologia 🚀
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nylsramos@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧭 Sobre mim
+
+- 🎓 Cursando **Ciência da Computação** na UNIP (6º semestre)
+- 🏫 Técnico em **Desenvolvimento de Sistemas** pela Etec Prof. Horácio Augusto da Silveira (concluído em 2026)
+- 💻 Gosto de resolver problemas com lógica de programação e explorar como IA pode apoiar o desenvolvimento de software
+- 🌱 Aprendendo SQL e me aprofundando em estruturas de dados e algoritmos
+- 📍 São Paulo, SP
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📌 Projetos em destaque
+
+#### 🛍️ [FashionNK](https://github.com/Nyls2005/SEU-REPO-AQUI)
+Site one-page de moda, desenvolvido do zero com HTML, CSS e JavaScript, com estrutura de código organizada em módulos separados (estrutura, estilo e interatividade).
+
+#### 🧬 [Algoritmo Genético — Jogo da Velha](https://github.com/Nyls2005/SEU-REPO-AQUI)
+Agente de IA em React que joga o jogo da velha usando um algoritmo genético completo: representação cromossômica, avaliação de fitness, quatro estratégias de crossover, seleção por torneio/roleta, mutação gaussiana e elitismo. Interface com gráficos em tempo real, modo torneio e modo interativo.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nyls2005&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyls2005" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyls2005&layout=compact" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <i>Aberto a oportunidades de estágio em tecnologia 💜</i>
+</p>
 <!--
 **Nyls2005/Nyls2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
