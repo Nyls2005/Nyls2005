@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+  <a href="[https://www.linkedin.com/in/SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/nyls-adair-9600a1266/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nylsramos@gmail.com">
@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -45,11 +44,6 @@
 
 #### 🛍️ [FashionNK](https://github.com/Nyls2005/SEU-REPO-AQUI)
 Site one-page de moda, desenvolvido do zero com HTML, CSS e JavaScript, com estrutura de código organizada em módulos separados (estrutura, estilo e interatividade).
-
-#### 🧬 [Algoritmo Genético — Jogo da Velha](https://github.com/Nyls2005/SEU-REPO-AQUI)
-Agente de IA em React que joga o jogo da velha usando um algoritmo genético completo: representação cromossômica, avaliação de fitness, quatro estratégias de crossover, seleção por torneio/roleta, mutação gaussiana e elitismo. Interface com gráficos em tempo real, modo torneio e modo interativo.
-
----
 
 ### 📊 Estatísticas do GitHub
 
