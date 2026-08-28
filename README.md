@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/nyls-adair-9600a1266/)">
+  <a href="https://www.linkedin.com/in/nyls-adair-9600a1266/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nylsramos@gmail.com">
