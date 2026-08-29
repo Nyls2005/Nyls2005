@@ -63,15 +63,6 @@
 #### 🛍️ [FashionNK](https://github.com/Nyls2005/Site_FashionNK.git)
 Site one-page de moda, desenvolvido do zero com HTML, CSS e JavaScript, com estrutura de código organizada em módulos separados (estrutura, estilo e interatividade).
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyls2005" height="165" />
-</p>
-
----
-
 <p align="center">
   <i>Aberto a oportunidades de estágio em tecnologia 💜</i>
 </p>
