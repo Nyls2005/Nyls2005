@@ -42,18 +42,14 @@
 
 ### 📌 Projetos em destaque
 
-#### 🛍️ [FashionNK](https://github.com/Nyls2005/SEU-REPO-AQUI)
+#### 🛍️ [FashionNK](https://github.com/Nyls2005/Site_FashionNK.git)
 Site one-page de moda, desenvolvido do zero com HTML, CSS e JavaScript, com estrutura de código organizada em módulos separados (estrutura, estilo e interatividade).
 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nyls2005&show_icons=true&theme=default" height="165" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nyls2005" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyls2005&layout=compact" height="165" />
 </p>
 
 ---
