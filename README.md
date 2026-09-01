@@ -51,6 +51,7 @@
 **Banco de Dados**
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 ### 🌱 Aprendendo agora
